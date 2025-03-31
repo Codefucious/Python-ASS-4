@@ -36,3 +36,9 @@ This project analyzes a Netflix dataset to gain insights through data cleaning, 
    Open your terminal or command prompt and run:
    ```bash
    pip install pandas numpy matplotlib seaborn
+
+Most Watched Genres Chart
+![Screenshot of the Most Watched Genres Chart](ss1.png)
+
+Ratings Distribution Chart
+![Screenshot of the Rating Distributions Chart](ss2.png)
